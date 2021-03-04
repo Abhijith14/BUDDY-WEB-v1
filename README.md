@@ -5,7 +5,7 @@
   Abhijith14/BUDDY-WEB-v1
 </h1>
 <p align="center">
-  The Second iteration of <a href="https://abhijith14.github.io/BUDDY-WEB-v1/" target="_blank">BUDDY-WEBSITE</a>
+  The First iteration of <a href="https://abhijith14.github.io/BUDDY-WEB-v1/" target="_blank">BUDDY-WEBSITE</a>
 </p>
 
 <!--
@@ -24,7 +24,7 @@
 -->
 
 ![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v1/master/readme_assets/index1.png)
-![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v1/master/readme_assets/index2.png)
+<!-- ![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v1/master/readme_assets/index2.png) -->
 
 ## 🚨 Forking this repo (please read!)
 
