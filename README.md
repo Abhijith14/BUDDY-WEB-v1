@@ -8,12 +8,13 @@
   The First iteration of <a href="https://abhijith14.github.io/BUDDY-WEB-v1/" target="_blank">BUDDY-WEBSITE</a>
 </p>
 
-<!--
+
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/Abhijith14/BUDDY-WEB-v1" target="_blank">v1</a>
+  New iterations:
+  <a href="https://github.com/Abhijith14/BUDDY-WEB-v2" target="_blank">v2</a>, 
+  <a href="https://github.com/Abhijith14/BUDDY-WEB-v3" target="_blank">v3</a>
 </p>
--->
+
 
 <!--
 <p align="center">
